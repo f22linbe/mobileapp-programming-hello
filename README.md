@@ -2,7 +2,7 @@
 # Rapport
 
 **Skriv din rapport här!**
-Hejsan
+
 
 ## Följande grundsyn gäller dugga-svar:
 
