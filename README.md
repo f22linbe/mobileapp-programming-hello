@@ -3,8 +3,17 @@
 
 **Skriv din rapport här!**
 
+Skapade ett Github konto, forkade projektet 
+
+Ändrade texten till "Hej världen" med koden:
+
+<string name="app_name">Hej världen</string>
+
+Gjorde en commit!
 
 ## Följande grundsyn gäller dugga-svar:
+
+
 
 - Ett kortfattat svar är att föredra. Svar som är längre än en sida text (skärmdumpar och programkod exkluderat) är onödigt långt.
 - Svaret skall ha minst en snutt programkod.
