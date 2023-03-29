@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Hello</string>
+    <string name="app_name">Hej världen</string>
+    <string name="avatarImage">avatar</string>
 </resources>
