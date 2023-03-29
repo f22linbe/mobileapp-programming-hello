@@ -2,8 +2,7 @@
 # Rapport
 
 **Skriv din rapport här!**
-
-_Du kan ta bort all text som finns sedan tidigare_.
+Hejsan
 
 ## Följande grundsyn gäller dugga-svar:
 
