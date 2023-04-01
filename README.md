@@ -7,7 +7,7 @@ Skapade ett Github konto, forkade projektet
 
 Ändrade texten till "Hej världen" med koden:
 
-**"<string name="app_name">Hej världen</string>"**
+<!--<string name="app_name">Hej världen</string>-->
 
 Gjorde en commit!
 
